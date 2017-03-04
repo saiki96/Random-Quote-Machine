@@ -1,0 +1,39 @@
+.title{
+     padding-top: 80px;
+    font-size:55px;
+}
+
+.title-wing{
+    padding-top: 20px;
+    text-align-last: center;
+    font-family:"Josefin" ;
+}
+
+.title{
+    font-family: 'Playfair Display SC' ;   
+}
+
+
+#quote-box{
+    padding-top:90px;
+    padding-left: 200px; 
+    padding-right:200px;
+    width: auto;
+    height: 800px;
+    opacity:1.5;
+
+}
+
+#button-style{
+    padding-left: 450px;;
+    padding-top: 200px;
+    width: 500px;
+}
+
+body{
+  background-image: url(https://www.xmple.com/wallpaper/gradient-white-grey-linear-1920x1080-c2-ffffff-d3d3d3-a-0-f-14.svg)
+}
+p{
+  font-family: 'Homemade Apple', cursive;
+  font-size:40px;
+}
